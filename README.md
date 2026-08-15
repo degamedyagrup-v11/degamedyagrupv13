@@ -9,10 +9,7 @@ CRITICAL RULE: Synthesize ALL previous features. Do not omit the detailed forms.
 - High-Visibility Buttons (CRITICAL FIX): The main login/register buttons on the landing page MUST NOT be hidden or "blind". They must be massive, glowing, glassmorphism buttons with 3D hover effects that command attention.
 - NO DEMO TEXT: Absolutely NO "test user" or "demo credentials" hints on the UI.
 
-2. AUTHENTICATION (Hardcoded God-Mode):
-- The God-Mode Admin MUST log in using exactly:
-  Email: admin@degamedyagrup.com
-  Password: 05398519585Mm..
+
 
 3. THE CINEMATIC LANDING PAGE (The Gates of the Titan):
 - Split-screen 3D Hero Section.
